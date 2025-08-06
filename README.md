@@ -1,9 +1,8 @@
 <h1 align="center">👋 Hi, I'm Mohamed Eltmsah</h1>
 <h3 align="center">Junior Data Analyst | Tanta University</h3>
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=800&lines=Data+Analyst+with+Excel%2C+Power+BI%2C+Python;Passionate+about+turning+data+into+insights;Always+learning+and+exploring+📊" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Data+Analyst+with+Excel%2C+Power+BI%2C+Python;Passionate+about+turning+data+into+insights;Always+learning+and+exploring+📊" alt="Typing SVG" />
 </p>
 
 ---
