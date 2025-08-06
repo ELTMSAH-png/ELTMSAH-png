@@ -1,46 +1,48 @@
 <h1 align="center">👋 Hi, I'm Mohamed Eltmsah</h1>
-<p align="center">
-  <strong>Junior Data Analyst | Tanta University</strong>
-</p>
+<h3 align="center">Junior Data Analyst | Tanta University</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&width=435&lines=Data+Cleaning+%7C+Exploration+%7C+Visualization;Excel+%7C+Power+BI+%7C+Python+%7C+SQL;Turning+data+into+insights..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&width=1000&size=25&lines=Data+Analyst+with+Excel,+Power+BI,+Python;Passionate+about+turning+data+into+insights;Always+learning+and+exploring+📊" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧰 Tools & Technologies
-
-- 📊 Excel (Pivot Tables, Power Query, Dashboards)
-- 📈 Power BI (DAX, Data Modeling, Visualization)
-- 🐍 Python (Pandas, Matplotlib, Seaborn)
-- 🗃 SQL (Joins, Aggregations, Filtering)
-- 🔧 M Language (Power Query Advanced)
-
----
-
-### 📁 Featured Projects
-
-- [Superstore Sales Analysis – Power BI + Python](#)
-- [Excel Dashboard – Product Performance](#)
-- [SQL Practice – Sales Queries](#)
+## ✨ About Me
+🎓 Computer Science graduate from **Faculty of Science, Tanta University**  
+📈 Junior Data Analyst with hands-on skills in **Excel**, **Power BI**, and **Python**  
+🔎 Interested in **data storytelling**, **dashboard design**, and **business insights**  
+📚 Always learning: Advanced Power Query, DAX, SQL, and real-world projects  
+🚀 Built dashboards and cleaned real datasets using Power BI, Excel, and Python
 
 ---
 
-### 📜 Certifications
-
-- Excel Fundamentals for Data Analysis – Coursera  
-- Python for Data Analysis – Udemy  
-- Power BI – LinkedIn Learning  
-- Introduction to SQL – DataCamp
+## 🧰 Tools & Technologies
+<p align="center">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DAX-8E44AD?style=for-the-badge&logo=powerbi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
-### 📬 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/YOUR_USERNAME)
-- [Email](mailto:your.email@gmail.com)
+## 🌐 Connect with me
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-eltmsah/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="mailto:eltmsahmohamed422@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+</p>
 
 ---
 
-> 📌 Currently learning: Advanced DAX | Power Query M | Python for Data Viz
+⭐ *Thanks for visiting my profile!*
