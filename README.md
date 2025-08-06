@@ -1,9 +1,7 @@
 <h1 align="center">👋 Hi, I'm Mohamed Eltmsah</h1>
 <h3 align="center">Junior Data Analyst | Tanta University</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&width=1000&size=25&lines=Data+Analyst+with+Excel,+Power+BI,+Python;Passionate+about+turning+data+into+insights;Always+learning+and+exploring+📊" alt="Typing SVG" />
-</p>
+
 
 ---
 
@@ -15,6 +13,11 @@
 🚀 Built dashboards and cleaned real datasets using Power BI, Excel, and Python
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&width=1000&size=25&lines=Data+Analyst+with+Excel,+Power+BI,+Python;Passionate+about+turning+data+into+insights;Always+learning+and+exploring+📊" alt="Typing SVG" />
+</p>
+
+
 
 ## 🧰 Tools & Technologies
 <p align="center">
